@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity(), NewsItemClicked {
 
     private lateinit var mAdapter : NewsListAdapter
 
+    //cheking the git
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
